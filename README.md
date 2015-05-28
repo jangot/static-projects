@@ -1,0 +1,2 @@
+# static-projects
+new
